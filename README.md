@@ -1,4 +1,5 @@
-<img width="404" height="871" alt="Screenshot 2025-11-13 201252" src="https://github.com/user-attachments/assets/1a976695-bbc7-447d-a1cb-dac5690af78b" /><img width="400" height="882" alt="Screenshot 2025-11-13 200718" src="https://github.com/user-attachments/assets/e541474d-d44d-4f37-af62-594c6f0db777" /># Aplikasi EZLife
+
+# Aplikasi EZLife
 Aplikasi ini merupakan aplikasi yang berisi informasi pribadi dari saya sendiri yang mengembangkannya. Terdapat beberapa menu di dalamnya antar lain, kontak, kalkulator, biodata, cuaca, dan berita lucu.
 
 # Screenshoot dan Deskripsi
@@ -29,6 +30,7 @@ Menampilkan cuaca pada hari tersebut beserta prakiraan cuaca mingguan
 ** Tampilan Berita **
 <img width="404" height="871" alt="Screenshot 2025-11-13 201252" src="https://github.com/user-attachments/assets/3d2ab8b7-24e5-4206-9d38-d4fd00490ff8" />
 Menampilkan berita atau informasi 
+
 
 
 
