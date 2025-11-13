@@ -20,20 +20,29 @@ Bagian dashboard menampilkan suhu maksimum dan cuaca serta motivasi singkat dan 
 Menampilkan daftar kontak
 
 ** Tampilan Kalkulator **
+
 <img width="415" height="866" alt="Screenshot 2025-11-13 200846" src="https://github.com/user-attachments/assets/99fa720a-8720-4610-9c25-8c5624688489" />
+
 Menampilkan kalkulator lucu 
 
 ** Tampilan Biodata **
+
 <img width="413" height="876" alt="Screenshot 2025-11-13 201022" src="https://github.com/user-attachments/assets/3b6a853c-1cfd-492e-a0b5-3211aea6481c" />
+
 Menampilkan biodata yang berisi foto, nama, terdapat isisan informasi seperti nama lengkap, alamat, dll.
 
 ** Tampilan Cuaca **
+
 <img width="402" height="874" alt="Screenshot 2025-11-13 201146" src="https://github.com/user-attachments/assets/92c1c4f6-841a-4e4d-82ac-765d956d80b2" />
+
 Menampilkan cuaca pada hari tersebut beserta prakiraan cuaca mingguan
 
 ** Tampilan Berita **
+
 <img width="404" height="871" alt="Screenshot 2025-11-13 201252" src="https://github.com/user-attachments/assets/3d2ab8b7-24e5-4206-9d38-d4fd00490ff8" />
+
 Menampilkan berita atau informasi 
+
 
 
 
