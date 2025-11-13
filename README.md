@@ -5,6 +5,9 @@ Aplikasi ini merupakan aplikasi yang berisi informasi pribadi dari saya sendiri 
 # Screenshoot dan Deskripsi
 ** Tampilan Awal **
 
+![WhatsApp Image 2025-11-13 at 22 24 34_f0d112f9](https://github.com/user-attachments/assets/ea403925-e603-493a-90ec-481fc3cdc53f)
+
+
 Menampilkan nama aplikasi yaitu EZLife, foto, nama, beserta NRP saya.
 
 ** Tampilan Dashboard **
@@ -42,6 +45,7 @@ Menampilkan cuaca pada hari tersebut beserta prakiraan cuaca mingguan
 <img width="404" height="871" alt="Screenshot 2025-11-13 201252" src="https://github.com/user-attachments/assets/3d2ab8b7-24e5-4206-9d38-d4fd00490ff8" />
 
 Menampilkan berita atau informasi 
+
 
 
 
